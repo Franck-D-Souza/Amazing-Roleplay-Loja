@@ -112,7 +112,7 @@ html {
     width: auto;
     height: auto;
     margin: 22% 2%;
-    color: rgba(0, 89, 255, 0.555);    
+    color: rgba(0, 89, 255, 0.719);    
     padding: 20px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
@@ -130,7 +130,15 @@ html {
 }
 #V1,#V2,#V3,#V4,#V5,#V6,#V7,#V8 {
     margin: 0.9%;
-}
+}/*
+#linha {
+
+    border: 2px solid transparent;
+    width: auto;
+    height: auto;
+    margin: 200px 10px;
+    box-shadow: 2px 2px 9px 5px red;
+}*/
     
 
 
